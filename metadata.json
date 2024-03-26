@@ -1,7 +1,7 @@
 {
-  "name": "eigenlayer-operator-staging",
-  "website": "http://54.200.19.118",
-  "description": "eigenlayer-operator-staging",
+  "name": "AltLayer",
+  "website": "https://altlayer.io/",
+  "description": "restaked rollups",
   "logo": "https://raw.githubusercontent.com/Exubient/henry-eigenlayer/main/logo.png",
   "twitter": "https://twitter.com/alt_layer"
 }
